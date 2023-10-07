@@ -1,4 +1,4 @@
-#Probability Calculator
+# Probability Calculator
 
 ## Assignment
 
