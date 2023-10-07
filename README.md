@@ -8,3 +8,8 @@ This repository contains my solutions and projects from the "Scientific Computin
 - Polygon Area Calculator
 - Probability Calculator
 
+<br>
+
+
+
+[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python)
